@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋 I'm David</h1> 
 <h2 align="center">Fullstack Developer</h2>  
-   
-- I’m currently mastering React, and picking up some other skills along the way like TypeScript and TailwindCSS<br>
-- Open to work/collaboration. Just reach out!
-
+<p align="center" width="50%">I’m currently mastering React, and picking up some other skills along the way like TypeScript and TailwindCSS.  Open to work/collaboration. Just reach out!</p>
  <div align="center">
  <h3>Languages & Tools I Use:</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
