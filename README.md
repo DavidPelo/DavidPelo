@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋 I'm David</h1> 
 <h2 align="center">Fullstack Developer</h2>  
    
-➢ I love creating new things<br>
-➢ I’m currently mastering JavaScript/React<br>
-➢ I enjoy some CSS and HTML as well!<br>
-➢ Open to work
+- I’m currently mastering React, and picking up some other skills along the way like TypeScript and TailwindCSS<br>
+- Open to work/collaboration. Just reach out!
 
  <div align="center">
  <h3>Languages & Tools I Use:</h3>
@@ -32,7 +30,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
  </div>
-<h3>Languages & Tools I Use:</h3>
 
 
 
