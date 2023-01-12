@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 </div>
 
-https://github-readme-activity-graph.cyclic.app
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davidpelo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
