@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋 I'm David</h1> 
 <h2 align="center">Fullstack Developer</h2>  
-<p align="center" width="50%">I’m currently mastering React, and picking up some other skills along the way like TypeScript and TailwindCSS.</p>
+<p align="center" width="50%">I’m currently mastering React/Next.js, and picking up some other skills along the way like TypeScript and TailwindCSS.</p>
 <p align="center">Open to work/collaboration. Just reach out!</p>
 <div align="center">
 <h3>Languages & Tools I Use:</h3>
